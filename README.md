@@ -10,6 +10,6 @@ Ansible role for creating a little infrastructure of Kubernetes multimode cluste
 7. Then, after successfully starting the instances and inventory updates. Run `main.yml` file with : `ansible-playbook main.yml`.
 8. They will call the roles and apply the changes accordingly.
 
-`This is a static inventory, you can practice the same with dynamic inventory too`
+`This cluster will create two slave nodes and one master node for cluster. It contains the static inventory, you can practice the same with dynamic inventory too`
 
 Enjoy the k8s-cluster on just two clicks.
