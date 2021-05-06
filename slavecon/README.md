@@ -11,11 +11,6 @@ Pre-requisites:
 2. Ansible installed
 3. Python3 
 
-Role Variables
---------------
-
-Just one : `cidr: "17.100.0.0/16"` that is for flannel configuration.
-
 
 Dependencies
 ------------
