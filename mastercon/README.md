@@ -1,7 +1,7 @@
 Role Name
 =========
 
-Mastercon
+Mastercon -  This role will configure a master node on your launched EC2 instance by installing kubeadm, kubelet and kubectl and initialising all the required pods on the docker container.
 
 Requirements
 ------------
@@ -28,6 +28,6 @@ Including an example of how to use your role (for instance, with variables passe
 License
 -------
 
-Default
+BSD-3-Clause
 
 
